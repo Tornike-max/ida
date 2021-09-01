@@ -1,0 +1,127 @@
+.bg-image{
+    background-image: url(../images/Shape\ 1.jpg);
+    max-width:100%;
+    height:952px;
+    position: relative;
+}
+.nav-li{
+    font-size:30px;
+    margin-top:20px;
+    cursor: pointer;
+    color:#FFFFFF;
+
+}
+.nav-li:hover{
+    font-size:35px;
+    transition: 0.5s;
+}
+.nav-ul{
+    display: flex;
+    justify-content: space-around;
+}
+.enjoy{
+    position: absolute;
+    top:20%;
+    left:15%;
+    font-size:25px;
+    color:#FFFFFF;
+}
+.enjoy:hover{
+    color:gold;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.download{
+    font-size:70px;
+}
+.app{
+    font-size:70px;
+}
+.first-text{
+    max-width:300px;
+    font-size:18px;
+    margin-top:20px;
+    
+}
+.but{
+    border-radius:30px ;
+    color:black;
+    max-width:110px;
+    height:40px;
+    position: absolute;
+    top:50%;
+    left:15%;
+}
+.butt{
+    border-radius:30px ;
+    color:black;
+    max-width:110px;
+    height:40px;
+    position: absolute;
+    top:50%;
+    left:25%;
+}
+.img{
+    max-width:1100px;
+    cursor: pointer;
+}
+
+.section-1{
+    max-width:100%;
+    height:1420px;
+    background-color:red;
+}
+.box{
+    background-color:green;
+    max-width:100%;
+    height:1300px;
+    display: flex;
+    justify-content: space-around;
+}
+.first-box{
+    max-width:300px;
+    width:100%;
+    height:300px;
+    background-color:rgb(207, 194, 194);
+}
+.second-box{
+    max-width:300px;
+    width:100%;
+    height:300px;
+    background-color:rgb(207, 194, 194);
+}
+.third-box{
+    max-width:300px;
+    width:100%;
+    height:300px;
+    background-color:rgb(207, 194, 194);
+}
+.user-icon{
+    padding-left:130px;
+    padding-top:10px;
+    color:#377DFF;
+    cursor: pointer;
+}
+.awesome{
+    font-size:24px;
+    text-align: center;
+    padding-top:10px;
+}
+.lorem{
+    font-size:16px;
+    text-align: center;
+    padding-top:15px;
+}
+.edit-icon{
+    padding-left:130px;
+    padding-top:15px;
+    color:#377DFF;
+    cursor: pointer;
+}
+.shield-icon{
+    padding-left:130px;
+    padding-top:15px;
+    color:#377DFF;
+    cursor: pointer;
+}
+
