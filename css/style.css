@@ -69,13 +69,13 @@
 
 .section-1{
     max-width:100%;
-    height:1420px;
-    background-color:white;
+    height:1000px;
+    background-color:#EAECEE;
 }
 .box{
-    background-color:white;
+    background-color:#EAECEE;
     max-width:100%;
-    height:1300px;
+    height:1000px;
     display: flex;
     justify-content: center;
 }
@@ -84,21 +84,21 @@
     width:100%;
     height:300px;
     border-radius: 20px;
-    background-color:rgb(207, 194, 194);
+    background-color:#FFFFFF;
 }
 .second-box{
     max-width:300px;
     width:100%;
     height:300px;
     border-radius: 20px;
-    background-color:rgb(207, 194, 194);
+    background-color:#FFFFFF;
 }
 .third-box{
     max-width:300px;
     width:100%;
     height:300px;
     border-radius: 20px;
-    background-color:rgb(207, 194, 194);
+    background-color:#FFFFFF;
 }
 .user-icon{
     padding-left:130px;
@@ -139,10 +139,11 @@
     max-width:419px;
     width:100%;
     height:489px;
-    background-color: rgb(207, 194, 194);
+    background-color: #FFFFFF;
     position: absolute;
     top:220%;
     left:55%;
+    border-radius: 30px;
 }
 .god-icon{
     position: absolute;
@@ -175,4 +176,325 @@
     position: absolute;
     top:80%;
     left:30%;
+}
+.section-2{
+    max-width:100%;
+    height:715px;
+    background-color:#EAECEE;
+
+}
+.box2{
+    max-width:100%;
+    height:710px;
+    background-color:#EAECEE;
+    position: relative;
+
+}
+.god-icon1{
+    position: absolute;
+    top:5%;
+    left:5%;
+}
+.big-box2{
+    max-width:419px;
+    width:100%;
+    height:659px;
+    background-color: #FFFFFF;
+    position: absolute;
+    top:1%;
+    left:5%;
+    border-radius: 30px;
+}
+.feautures{
+    position: absolute;
+    top:15%;
+    left:3%;
+    font-size:40px;
+}
+.p-text{
+    font-size:18px;
+    color:#666666;
+    position: absolute;
+    top:25%;
+    left:3%;
+}
+.bell-icon{
+    color:#FF7588;
+    position: absolute;
+    top:35%;
+    left:3%;
+}
+.instant{
+    font-size:24px;
+    position: absolute;
+    top:36%;
+    left:15%;
+}
+.instant-text{
+    font-size:18px;
+    color:#666666;
+    position: absolute;
+    top:40%;
+    left:3%;
+}
+.user-icon{
+    color:#FF7588;
+    position: absolute;
+    top:48%;
+    left:-28%;
+    color:#7A65FF;
+}
+.friendly{
+    font-size:24px;
+    position: absolute;
+    top:50%;
+    left:15%;
+}
+.friendly-text{
+    color:#666666;
+    position: absolute;
+    top:55%;
+    left:3%;
+    font-size:18px;
+}
+.like-icon{
+    color:#FF7588;
+    position: absolute;
+    top:65%;
+    left:3%;
+    color:#FFAA8F;
+}
+.like-head{
+    font-size:24px;
+    position: absolute;
+    top:66%;
+    left:15%;
+}
+.like-text{
+    color:#666666;
+    position: absolute;
+    top:71%;
+    left:3%;
+    font-size:18px;
+}
+.saly{
+    max-width:600px;
+    position: absolute;
+    top:3%;
+    left:50%;
+}
+.section3{
+    max-width:100%;
+    width:100%;
+    height:1900px;
+    background-color:#EAECEE;
+}
+.red-line{
+    max-width:100%;
+    position: relative;
+}
+.mask{
+    max-width:1100px;
+    width:100%;
+    position: absolute;
+    top:450%;
+    left:1%;
+}
+.smart-div{
+    max-width:589px;
+    width:100%;
+    height:405px;
+    position: absolute;
+    top:455%;
+    left:45%;
+    border-radius: 30px;
+}
+.smart-head{
+    font-size:50px;
+    padding-top:40px;
+}
+.smart-head2{
+    font-size: 50px;
+}
+.smart-text{
+    font-size:25px;
+    padding-top:20px;
+}
+.marry{
+    max-width:150px;
+    width:100%;
+    height:50px;
+    border-radius: 30px;
+    font-size:18px;
+    position: absolute;
+    top:70%;
+    left:25%;
+    color:black;
+}
+.question-div{
+    max-width:534px;
+    width:100%;
+    height:501px;
+    background-color:white;
+    border-radius:30px;
+    margin-left:50px;
+}
+.question-icon{
+    padding-top:25px;
+    padding-left:35px;
+    color:#FF7588;
+}
+.any{
+    font-size:50px;
+    padding-top:20px;
+    padding-left:30px;
+
+}
+.any-text{
+    font-size:18px;
+    padding-top:20px;
+    padding-left:30px;
+    color:#666666;
+
+}
+.pink-head{
+    font-size:24px;
+    color:#FF7588;
+    padding-top:20px;
+    padding-left:30px;
+}
+.answer{
+    font-size:18px;
+    color:#666666;
+    padding-top:20px;
+    padding-left:30px;
+}
+.pink-question{
+    padding-top:20px;
+    padding-left:30px;
+    color:#FF7588;
+    font-size:24px;
+}
+.last-pink{
+    padding-top:20px;
+    padding-left:30px;
+    color:#FF7588;
+    font-size:24px;
+}
+.saly26{
+    position: absolute;
+    left:60%;
+    top:560%;
+}
+.pink-line{
+    max-width:1170px;
+    width:100%;
+    height:300px;
+    background-color:#FF7588;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto;
+    margin-top:50px;
+}
+.downloads{
+    font-size:60px;
+    padding-left:70px;
+}
+.easy{
+    position: absolute;
+    top:680%;
+    left:24%;
+    font-size:16px;
+}
+.active{
+    position: absolute;
+    top:680%;
+    left:41.5%;
+    font-size:16px;
+}
+.rating{
+    position: absolute;
+    top:680%;
+    left:58.5%;
+    font-size:16px;
+}
+.clients{
+    position: absolute;
+    top:680%;
+    left:71.5%;
+    font-size:16px;
+}
+.last-div{
+    max-width:592px;
+    width:100%;
+    height:265px;
+    margin:0 auto;
+    margin-top:30px;
+}
+.lucky{
+    font-size:50px;
+    text-align: center;
+}
+.simply{
+    font-size:20px;
+    text-align: center;
+    padding-top:20px;
+}
+.contactus{
+    font-size:20px;
+    max-width:150px;
+    height:50px;
+    border-radius:30px;
+    position: absolute;
+    left:45%;
+    top:720%;
+}
+.footer{
+    max-width:100%;
+    height:100px;
+    background-color:black;
+    position: relative;
+    display: flex;
+}
+.social{
+    color:white;
+    margin-top:40px;
+    margin-left:50px;
+}
+.fb-icon{
+    color:#3b5998;
+    padding-left:15px;
+    padding-top:30px;
+    cursor: pointer;
+}
+.inst-icon{
+    color:#8a3ab9;
+    padding-left:15px;
+    padding-top:30px;
+    cursor: pointer;
+}
+.twit-icon{
+    color:#00acee;
+    padding-left:15px;
+    padding-top:30px;
+    cursor: pointer;
+}
+.you-icon{
+    color:	#FF0000;
+    padding-left:15px;
+    padding-top:30px;
+    cursor: pointer;
+}
+.copyright{
+    font-size:20px;
+    color:white;
+    padding-left:15px;
+    padding-top:36px;
+}
+.me{
+    font-size:20px;
+    color:white;
+    padding-left:15px;
+    padding-top:36px;
 }
